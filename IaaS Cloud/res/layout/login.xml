@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:gravity="top|center" android:background="@drawable/cloudselect">
+    <ImageView android:layout_height="wrap_content" android:id="@+id/imageView2" android:layout_width="wrap_content" android:src="@drawable/vmware" android:layout_x="169dip" android:layout_y="8dip"></ImageView>
+    <ImageView android:layout_height="wrap_content" android:id="@+id/imageView1" android:layout_width="wrap_content" android:src="@drawable/rackspace" android:layout_x="4dip" android:layout_y="14dip"></ImageView>
+    <ImageView android:layout_height="wrap_content" android:id="@+id/imageView7" android:layout_width="wrap_content" android:src="@drawable/cloudpath" android:layout_x="134dip" android:layout_y="41dip"></ImageView>
+    <TextView android:id="@+id/TextView01" android:typeface="serif" android:gravity="top" android:layout_width="wrap_content" android:textSize="20sp" android:layout_height="wrap_content" android:text="@string/app_name" android:textColor="@color/black" android:layout_x="109dip" android:layout_y="80dip"></TextView>
+    <ImageView android:layout_height="wrap_content" android:id="@+id/imageView4" android:layout_width="wrap_content" android:src="@drawable/aws" android:layout_x="208dip" android:layout_y="350dip"></ImageView>
+    <ImageView android:layout_height="wrap_content" android:id="@+id/imageView3" android:layout_width="wrap_content" android:src="@drawable/gogrids" android:layout_x="6dip" android:layout_y="350dip"></ImageView>
+    <CheckBox android:clickable="true" android:textColor="@color/red" android:text="Remember Details" android:layout_width="wrap_content" android:layout_height="wrap_content" android:id="@+id/checkBox1" android:layout_x="61dip" android:layout_y="258dip"></CheckBox>
+    <Button android:id="@+id/forgot" android:layout_width="wrap_content" android:text="@string/forgot" android:layout_height="wrap_content" android:clickable="true" android:layout_x="82dip" android:layout_y="301dip"></Button>
+    <EditText android:layout_height="40px" android:gravity="center" android:layout_width="130px"  android:inputType="text" android:layout_x="81dip" android:layout_y="124dip" android:id="@+id/username"></EditText>
+    <EditText android:layout_height="40px" android:gravity="center" android:layout_width="130px" android:password="true"  android:layout_x="82dip" android:layout_y="180dip" android:inputType="textPassword" android:id="@+id/password"></EditText>
+    <Button android:text="Login" android:layout_height="40px" android:clickable="true" android:layout_width="100px" android:id="@+id/login" android:layout_x="102dip" android:layout_y="229dip"></Button>
+    <Button android:text="Register" android:layout_height="wrap_content" android:layout_width="wrap_content" android:id="@+id/register_button" android:layout_x="118dip" android:layout_y="344dip"></Button>
+    
+</AbsoluteLayout>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:background="@drawable/cloudselect">
+            <ImageView android:layout_height="wrap_content" android:id="@+id/imageView4" android:layout_width="wrap_content" android:src="@drawable/aws" android:layout_x="204dip" android:layout_y="298dip"></ImageView>
+            <ImageView android:layout_height="wrap_content" android:id="@+id/imageView1" android:layout_width="wrap_content" android:src="@drawable/gogrids" android:layout_x="140dip" android:layout_y="300dip"></ImageView>
+            <ImageView android:layout_height="wrap_content" android:id="@+id/imageView3" android:layout_width="wrap_content" android:src="@drawable/vmware" android:layout_x="94dip" android:layout_y="342dip"></ImageView>
+            <ImageView android:layout_height="wrap_content" android:id="@+id/imageView6" android:layout_width="wrap_content" android:src="@drawable/citrix" android:layout_x="194dip" android:layout_y="342dip"></ImageView>
+            <ImageView android:layout_height="wrap_content" android:id="@+id/imageView2" android:layout_width="wrap_content" android:src="@drawable/rackspace" android:layout_x="2dip" android:layout_y="288dip"></ImageView>
+            <ImageView android:layout_height="wrap_content" android:id="@+id/imageView5" android:layout_width="wrap_content" android:src="@drawable/cisco" android:layout_x="2dip" android:layout_y="342dip"></ImageView>
+            <ImageView android:layout_height="wrap_content" android:id="@+id/imageView7" android:layout_width="wrap_content" android:src="@drawable/cloudpath" android:layout_x="145dip" android:layout_y="2dip"></ImageView>
+            <TextView android:id="@+id/textView1" android:typeface="serif" android:gravity="top" android:layout_width="wrap_content" android:textSize="20sp" android:layout_height="wrap_content" android:text="@string/app_name" android:textColor="@color/black" android:layout_x="109dip" android:layout_y="30dip"></TextView>
+            <Button android:id="@+id/exit_button" android:gravity="center|center_vertical" android:layout_width="180px" android:text="@string/exit" android:layout_height="40px" android:layout_x="64dip" android:layout_y="250dip"></Button>
+            <Button android:gravity="center|center_vertical" android:layout_width="180px" android:text="@string/about" android:layout_height="40px" android:layout_x="64dip" android:layout_y="202dip" android:id="@+id/about_button"></Button>
+            <Button android:gravity="center|center_vertical" android:layout_width="180px" android:text="@string/mgmt" android:layout_height="40px" android:layout_x="64dip" android:layout_y="114dip" android:id="@+id/mgmt_button"></Button>
+            <Button android:id="@+id/evaluate_button" android:gravity="center|center_vertical" android:layout_width="180px" android:text="@string/evaluate" android:layout_height="40px" android:layout_x="65dip" android:layout_y="156dip"></Button>
+            <Button android:id="@+id/iaas_button" android:gravity="center|center_vertical" android:layout_width="180px" android:text="@string/iaas" android:layout_height="40px" android:layout_x="64dip" android:layout_y="68dip"></Button> 
+  
+
+</AbsoluteLayout>

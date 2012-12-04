@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<array name="option">
+<item>@string/login</item>
+<item>@string/register</item>
+
+
+</array>
+</resources>

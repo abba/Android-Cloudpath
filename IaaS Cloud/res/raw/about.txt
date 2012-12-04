@@ -1,0 +1,17 @@
+Cloud Path is an Infrastructure as service application.
+
+It serves as a one-stop destination for company decision makers 
+currently using cloud infrastructure as a service (IaaS), 
+thinking of adopting or migrating to cloud.
+
+Cloud Path offers the following features and functionalities:
+
+Educating users on cloud infrastructure as a service (IaaS)
+Evaluation of current infrastructure, determine requirements and 
+business needs toward cloud adoption or migration.
+Recommend and select providers.
+Provider simplified infrastructure location such offering location of servers, 
+alerts on low performance, hardware and enable turning on and off of hardware.
+
+(c) 2011 University of Bedfordshire
+Developer: Suleiman Zakari N

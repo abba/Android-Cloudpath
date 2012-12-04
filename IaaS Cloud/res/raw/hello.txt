@@ -1,0 +1,57 @@
+ Infrastructure as a service (IaaS) Overview
+
+ IaaS is a delivery model that provides organizations 
+the ability to outsource or rent equipment used to support IT operations, such as 
+servers, networking components, storage, memory and hardware. It is also referred to 
+as Hardware as a Service (IaaS).
+
+Characteristics Benefits
+
+Automation
+
+Automation in cloud has to do with day-to-day provisioning activities with tools that 
+facilitate, simplify and enable management of the physical environment that provides
+ the virtual server resources.
+Infrastructure as a service offers automated administration in virtualized environments 
+as one of the major challenges of cloud includes administration that can increase 
+complexity and generate more management expenditure.
+
+
+Desktop Virtualization 
+
+Desktop virtualization stores images of each user’s desktop, which consist of 
+its own different operating system, application, user profile, data and management 
+policies centrally in the provider’s datacenter. 
+Virtual desktop infrastructure provides the functionality of a 
+traditional desktop but only runs as a virtual machine containing 
+functions and unique users settings of a real desktop
+
+
+Hardware as a Service
+
+There are the key components of an infrastructure as service delivery, whose resources 
+are usually rented out to customers. Service providers have this hardware 
+set up as grid systems 
+within the datacenter in order to provide easier and dynamic scalability.
+
+Utility Computing (Pay As You GO) Resources
+
+Usually set up to bill customers based on consumption of IT resources consumed.
+Utility computing is a concept of packing computing resources and measuring them
+like traditional meter utility, it is an integral part of Infrastructure as service 
+by providing billing plan, relating cost to actual or exact resource usage 
+consumed by a customer.
+
+Challenges of Infrastructure as a Service Adoption and Migration
+
+Security, Privacy, Governance and Unified Standards
+
+Security, privacy and lack of governance in cloud have been attracting so many attentions 
+from organizations and remain a big concern.
+
+Standards must be set in cloud that governs processes, policies and best practices
+to ensure appropriate controls are granted to prevent leak of sensitive data, 
+protecting data is a legal requirements in most countries. 
+The Cloud Security Alliance (CSA) is a major contributor to ensuring of security 
+to the highest degree of satisfaction in cloud.
+

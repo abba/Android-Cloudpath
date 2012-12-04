@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent" android:background="@drawable/cloudselect">
+    <RadioButton android:id="@+id/radioButton1" android:layout_width="wrap_content" android:text="Windows" android:layout_height="wrap_content" android:layout_x="13dip" android:layout_y="118dip"></RadioButton>
+    <RadioButton android:id="@+id/radioButton2" android:layout_width="wrap_content" android:text="Linux" android:layout_height="wrap_content" android:textColor="@color/black" android:layout_x="181dip" android:layout_y="118dip"></RadioButton>
+    <TextView android:id="@+id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="Select Operating System:" android:textColor="@color/red" android:layout_x="17dip" android:layout_y="102dip"></TextView>
+    <ImageView android:layout_height="wrap_content" android:id="@+id/imageView1" android:layout_width="wrap_content" android:src="@drawable/vmware" android:layout_x="2dip" android:layout_y="377dip"></ImageView>
+    <ImageView android:layout_height="wrap_content" android:id="@+id/imageView2" android:layout_width="wrap_content" android:src="@drawable/cisco" android:layout_x="108dip" android:layout_y="376dip"></ImageView>
+    <ImageView android:layout_height="wrap_content" android:id="@+id/imageView3" android:layout_width="wrap_content" android:src="@drawable/rackspace" android:layout_x="204dip" android:layout_y="376dip"></ImageView>
+    <TextView android:id="@+id/textView1" android:typeface="sans" android:gravity="center" android:layout_width="wrap_content" android:textSize="20sp" android:layout_height="wrap_content" android:text="Evaluate Infrastructure" android:textColor="@color/green" android:layout_x="54dip" android:layout_y="73dip"></TextView>
+    <ImageView android:layout_height="wrap_content" android:id="@+id/imageView7" android:layout_width="wrap_content" android:src="@drawable/cloudpath" android:layout_x="125dip" android:layout_y="17dip"></ImageView>
+    <TextView android:id="@+id/TextView01" android:typeface="serif" android:gravity="top" android:layout_width="wrap_content" android:textSize="20sp" android:layout_height="wrap_content" android:text="@string/app_name" android:textColor="@color/black" android:layout_x="98dip" android:layout_y="40dip"></TextView>
+    <Button android:text="Evaluate" android:layout_height="45px" android:layout_width="75px" android:id="@+id/submit_button" android:layout_x="97dip" android:layout_y="333dip" android:clickable="true" android:onClick="@layout/result"> </Button>
+    <EditText android:layout_height="40px" android:layout_width="80px" android:id="@+id/editText1" android:layout_x="184dip" android:layout_y="298dip" android:editable="true" android:textStyle="bold" android:inputType="number" android:clickable="false"></EditText>
+    <TextView android:layout_height="wrap_content" android:textColor="@color/black" android:layout_width="wrap_content" android:id="@+id/textView6" android:text="Monthly Uptime (Hours):" android:layout_x="20dip" android:layout_y="297dip"></TextView>
+    <TextView android:layout_height="wrap_content" android:textColor="@color/black" android:layout_width="wrap_content" android:id="@+id/textView5" android:text="RAM (MB):" android:layout_x="24dip" android:layout_y="261dip"></TextView>
+    <TextView android:layout_height="wrap_content" android:textColor="@color/black" android:layout_width="wrap_content" android:id="@+id/textView4" android:text="Storage Size (GB):" android:layout_x="20dip" android:layout_y="225dip"></TextView>
+    <TextView android:layout_height="wrap_content" android:textColor="@color/black" android:layout_width="wrap_content" android:id="@+id/textView3" android:text="Number of Servers:" android:layout_x="16dip" android:layout_y="176dip"></TextView>
+    <EditText android:layout_height="40px"  android:layout_width="80px" android:id="@+id/editText3" android:layout_x="184dip" android:layout_y="164dip" android:editable="true" android:textStyle="bold" android:inputType="number"></EditText>
+    <EditText android:layout_height="40px"  android:layout_width="80px" android:id="@+id/editText2" android:layout_x="184dip" android:layout_y="208dip" android:editable="true" android:textStyle="bold" android:inputType="number"></EditText>
+    <EditText android:layout_height="40px"  android:layout_width="80px" android:id="@+id/editText4" android:layout_x="184dip" android:layout_y="256dip" android:editable="true" android:textStyle="bold" android:inputType="number"></EditText>   			
+    			
+  
+    			
+</AbsoluteLayout>
