@@ -16,6 +16,6 @@ REQUIREMENTS TO RUN APP
 Eclipse IDE
 Android SDK (API Level 8)
 
-Copyright (c) 2011, Zakari Suleiman N
+Copyright (c) 2011, Zach Suleiman N
 
 
