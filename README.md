@@ -8,9 +8,6 @@ Documentation
 
 There's quite an extensive amount of developement documentation ranging from UML Behavioural and Structural Diagrams
 
-This App was Implemented Using XML, SQLlite and Java
-
-
 REQUIREMENTS TO RUN APP
 
 Eclipse IDE
